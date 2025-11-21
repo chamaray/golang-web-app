@@ -8,7 +8,7 @@ image:
   repository: chamaray/golang-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "19577013913"
+  tag: "19577239902"
 
 ingress:
   enabled: false
